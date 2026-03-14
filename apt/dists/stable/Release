@@ -1,0 +1,23 @@
+Origin: Stategraph
+Label: Stategraph
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Stategraph APT Repository
+Date: Sat, 14 Mar 2026 18:51:35 +0000
+MD5Sum:
+ 3442d0c529945a8539cd118deb1ea8a1      618 main/binary-amd64/Packages
+ 71385ef1b83df35cb3080e2942b85f1a      410 main/binary-amd64/Packages.gz
+ db79255d9c1414c3ec6ee168b6d08365      618 main/binary-arm64/Packages
+ dd7632a68619aa33fa7d12ed74873d25      408 main/binary-arm64/Packages.gz
+SHA1:
+ 46bd87bd7c943f5fdd78be495d2d0d6a15433c9a      618 main/binary-amd64/Packages
+ 5c83db20269a014dca878d57c0c658ce05a43335      410 main/binary-amd64/Packages.gz
+ ea10663ad16da9fd7fc1638c400942b4c17733f9      618 main/binary-arm64/Packages
+ e2eeebb03a0cbb531790c9697eefa3ad95bef17c      408 main/binary-arm64/Packages.gz
+SHA256:
+ d24efb6cdc0f5ba4582d3944edea1ce7978e8f69937f35c92ef06527b2b38165      618 main/binary-amd64/Packages
+ c5fe8c50d9909631b674ac989a9380083c9e54e5f8537c844bbc8e46d73d1568      410 main/binary-amd64/Packages.gz
+ 5b9d7840bc369ac3e445eb2da86260207af9e8c63b35aaa7a31768828451ca4e      618 main/binary-arm64/Packages
+ b8e6887d7a3cc96553e6999390760426c22e440821fde29a65587fdf18be6459      408 main/binary-arm64/Packages.gz
