@@ -825,6 +825,20 @@ Description: Terraform state management and visualization CLI
  including state diffing, querying, and visualization capabilities.
 
 Package: stategraph
+Version: 2.3.33
+Architecture: arm64
+Maintainer: Stategraph <support@stategraph.com>
+Filename: pool/stategraph_2.3.33_arm64.deb
+Size: 21744812
+MD5sum: d7dbc7cf4350fc6a3bbd5d2a26bfcf02
+SHA1: 3cae0d5ccc26f039ed3bdc09cc6c15b88edd2907
+SHA256: 54b396e1b869429f04be5c5405c9f6f5a91cb1ad075d7c34a1bf93b66538521f
+Homepage: https://stategraph.com
+Description: Terraform state management and visualization CLI
+ Stategraph provides tools for managing and visualizing Terraform state,
+ including state diffing, querying, and visualization capabilities.
+
+Package: stategraph
 Version: 2.3.3
 Architecture: arm64
 Maintainer: Stategraph <support@stategraph.com>
