@@ -8,35 +8,35 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Stategraph APT Repository
-Date: Fri, 09 Oct 2026 23:33:15 +0000
+Date: Sat, 10 Oct 2026 08:12:12 +0000
 MD5Sum:
- 83ef5508b24119997df0ac5b99944318    59773 main/binary-amd64/Packages
- 433ab1e29f62628804d78e47022d54c6    11356 main/binary-amd64/Packages.gz
- f43b6846857ad53be0c19dafe605c0df    59773 main/binary-arm64/Packages
- 867709e938a1ae63da2890c455cbc6b1    11354 main/binary-arm64/Packages.gz
+ 760621cb50ca738186ee251264d02021    60331 main/binary-amd64/Packages
+ 072f004ae3f1e7a3d312ebef3620199d    11457 main/binary-amd64/Packages.gz
+ bd6e9667f470ed81b1f391580e368d4e    60331 main/binary-arm64/Packages
+ ccf46e3320dae2e68e746b5d7007c6b6    11453 main/binary-arm64/Packages.gz
 SHA1:
- c25b9d5ece315f21ee02d6b42f8a23a32c7d3c06    59773 main/binary-amd64/Packages
- 78ff00d144912cd58ec8ec34de5c2d4b816f2080    11356 main/binary-amd64/Packages.gz
- ca7b9f6e7a8f5b48202ec409f8fea3862355bdab    59773 main/binary-arm64/Packages
- 393e794ed3ab0220fb40731006d954d4fbdba84c    11354 main/binary-arm64/Packages.gz
+ 0c09bf47a27a98ab87900742fd0e84e8a4b4fc2a    60331 main/binary-amd64/Packages
+ 69c9ae10711a2609f78e24cdb93c93628d10147c    11457 main/binary-amd64/Packages.gz
+ cd7045246c77cca64f52215f65a5d176386f2718    60331 main/binary-arm64/Packages
+ 2e6654f7bec30d2c1a39d22e85422b1d05aebe82    11453 main/binary-arm64/Packages.gz
 SHA256:
- 02c94ad6146a2aba00820394d702a7870a8fb888329fc76bcaf144daac51d076    59773 main/binary-amd64/Packages
- a72844516f005efd64d21337b690b8825e1db71b0af527aace98ac7f04406e2b    11356 main/binary-amd64/Packages.gz
- 340b485e0db03ed5d7e6359dd55534098c4cd23da9c7f16701f6388cf2e4d12c    59773 main/binary-arm64/Packages
- b36c1a84b98caf956f71a6bd9e9ffec7107828557b2a80aaf683816707bf93a2    11354 main/binary-arm64/Packages.gz
+ 32576b70fddf4c6e90fd563c3e36a98610f2092f1fd401a81480de31944fd6a8    60331 main/binary-amd64/Packages
+ 72d02f4a9d40227c771549452e3232dd9533e7c7c2ae55eaafb9fbb5ebc785f3    11457 main/binary-amd64/Packages.gz
+ 29e5d38344cc4a3104014d8759135331f9b0e2912f8e21184fccbfb95df8e26e    60331 main/binary-arm64/Packages
+ 3f2f4fae7311442b4a37ad16f0abf6c05e9c787facedd1c1e2798dd75ff1aecc    11453 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEO9oSUiZGWhB27IiwjHbOlTFQDo0FAmrJebsACgkQjHbOlTFQ
-Do17Zw//fRuc3mMjFPfe9TczOsIWXRf+PpRxLR1Da/qaJKLk34gW8u7IPqnOKdPp
-xDbBq/Kp2b1+b5TDiPz98A9f6RWQSPpnossLeznTvpX04+70BacJ3Su9BMli+dAt
-5CrO1ZcvqURTpTryPnB49edZoLQro3aj+odhfTUg/VvLF5yx9M0T1CFYUcMIsdEB
-MIJjyhhHcQ2FLKTDTMZTv1iXOGMZ/Ytl1pcdeczcb4JkHvoCs9YQC0srwJ/N0rhp
-Fbs3DAMyePK75IVburWaB1zzh029P+rxiVM0HXGmkNPkd/ioFhBQgEEv9cAb6xw2
-4vjL0wRfIDK8DGSAxTX7kRCooY7tuO4JZ48gYCUmTW754E17G8zdJoM1zllN6naz
-KkuVtnEpax74YjxXxrEwt9vAtZAjUz8yNxbyShOehD3O6qusI5He6XDEn9UTpWQv
-OiNvvccnikQSEnhrzmB6B+F5Qglg6KktwEPojF6V7na7owC2gYlHSliOE6nV/ksS
-+UdmU7JZEaZj46J3fmk62EKO9L8Xp/Ci8c1n6vQTaH4O0+N78KHP1+yMJdiutbef
-wOvFCdWorEVeZWRYYizhML/8nN6xkj+oviQoneIvGmVEjoLfU9QketPryQ39Vf2U
-U+H+25kiDmyf9LsjU+PS9opDIG+SCCE1uNWN83qf3oHAi60buI4=
-=5Ml1
+iQIzBAEBCgAdFiEEO9oSUiZGWhB27IiwjHbOlTFQDo0FAmrJ81wACgkQjHbOlTFQ
+Do286g//bBba/fLrOgy/1V98hQIAmRuwHl8SDe3jVIa1ocNzJNIUHzuOHkjIrgKR
+sSxwMwf5EupHSeOnfJ93VUjUEDrgUeG0raQHWupK2J+GcoLK/t6oF1JeO30TYjTN
+xdOWt7q8GsgU8IFbwPs3EJQmgiHPSkmVggfdDSxwHbK69fF6s4T/Bcq5UB+n4UJX
+JS+fNx8VJGdooQ9sVuuB/hJD0AdLOzkDzqdXget8rXCDQgJ8mLaRL2ho8eepSY0D
+HFluOwgSlDtpMIUu4+jZ28f62PgcAgocg8VXCHK91jafpBBjGKbOhwrPITY4gCwa
+a/ZPajFrgTUZyYglFpm77R3Q2E86ams8YbRGNVL98zN1ABH8JWTLezsacU8myyXT
+rLlpKeQ2wUtQ8wHgEI59Ks1L77Al/Iy9/sE+dAhQ+1OaKDtKvWxIy6kImr700XtM
+JNivduKA8x1e0o0paWb3TXW2uQHRk4gJ7cHNXopMwvzEET26/L8M4l67qc3PovxV
+MO8lXIr8PkLVXQbfgGUUol74g4luilwuhIM2nXrtNECQk4/YIEasDQVoxls2kLCV
+yhyU9RMLmNxeFxajeIz4xmXv68vODAN49+u7xMSIW31UvR0srNV682SMhxr35n83
+BUr6YlnxysMSoJ5N3uUuZtCiZZ+YAwSFdecVeyRKTtG5aqkiGko=
+=C+6u
 -----END PGP SIGNATURE-----
