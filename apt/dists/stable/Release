@@ -5,19 +5,19 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: Stategraph APT Repository
-Date: Fri, 23 Oct 2026 19:29:31 +0000
+Date: Mon, 02 Nov 2026 19:59:37 +0000
 MD5Sum:
- f7481606f3baa089d92dbe96756eb2c8    66489 main/binary-amd64/Packages
- 2f54954fabea71d4d9ce92914f62ac97    12591 main/binary-amd64/Packages.gz
- fb05242adf90d82654a3259636f63efc    66489 main/binary-arm64/Packages
- e1b14325219a2a5cfa85686b7af80389    12589 main/binary-arm64/Packages.gz
+ f7a9f3612318836d541d4f053022004f    67049 main/binary-amd64/Packages
+ 9e0548e3f1bfa9735d4d79afa2a9db4f    12696 main/binary-amd64/Packages.gz
+ 8631563df32ec173a8c1953887dfce18    67049 main/binary-arm64/Packages
+ c2f85fc617f1b70cbb29a79d58ee2c52    12694 main/binary-arm64/Packages.gz
 SHA1:
- a52ea5ea455aabfd1e95e2f5a25e1f422225e70d    66489 main/binary-amd64/Packages
- 85dafb1d444d360215d9bfdbce53f513ad1f0eae    12591 main/binary-amd64/Packages.gz
- 531cee8a395f3ed9a8d61c823941f79e548ae1d4    66489 main/binary-arm64/Packages
- ab5b54acf90529b401e38af10b7b67b6753b098a    12589 main/binary-arm64/Packages.gz
+ 4b4ff6a4712b43dad2565b7695147152c50c74d5    67049 main/binary-amd64/Packages
+ 6b824d992ee5e79cd748a2ac6e6c6c253f02cec0    12696 main/binary-amd64/Packages.gz
+ 1c1a47b15f00c84dafd3804f86674c2692edcdb7    67049 main/binary-arm64/Packages
+ e0179da84f9fb778fda6f5e8e411150e43a799f1    12694 main/binary-arm64/Packages.gz
 SHA256:
- 226bc3a86a04dfe639868139504188009508d84033599e0217077c5e47c68784    66489 main/binary-amd64/Packages
- 9a20574efc28abda96fa383e7449074f9b856035ae5ebfe0d0715d6f0fc2467b    12591 main/binary-amd64/Packages.gz
- dfd7eb3fc0dd64d99cec721fae501c54c07002ab50d6ecae848814f1726c4643    66489 main/binary-arm64/Packages
- 4aea87690e666b5891e4cfd108fa144a6eb66bcd0785d59f98245df0e5c2c195    12589 main/binary-arm64/Packages.gz
+ 29a19ffdd82fe459e875e7e96d72776de6b2cb2c9dafb456ee596cd9a029a81a    67049 main/binary-amd64/Packages
+ 36440b9d9722ecef642c4e8afdb6633357371e1d5f4122cf1f3c676264b1f7f5    12696 main/binary-amd64/Packages.gz
+ 749a45eac240763701bb81a341c158563a9b73551f3b87852824fc23702e9ab8    67049 main/binary-arm64/Packages
+ 4c3948219ef032638ac05a8384cc74e585b5642d4da6c84ad4a2f4d862d7982f    12694 main/binary-arm64/Packages.gz
