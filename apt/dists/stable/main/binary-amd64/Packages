@@ -1,18 +1,4 @@
 Package: stategraph
-Version: 3.2.39
-Architecture: amd64
-Maintainer: Stategraph <support@stategraph.com>
-Filename: pool/stategraph_3.2.39_amd64.deb
-Size: 22940400
-MD5sum: 62fd9b232ef6003a0e2bd9793012059d
-SHA1: 6ad463152f2f60e9b30938b73024c31ff040b01e
-SHA256: 7d18db343b8537a614b5c956c1ebcbc5775a60051c248fa0605a762034b17311
-Homepage: https://stategraph.com
-Description: Terraform state management and visualization CLI
- Stategraph provides tools for managing and visualizing Terraform state,
- including state diffing, querying, and visualization capabilities.
-
-Package: stategraph
 Version: 3.2.40
 Architecture: amd64
 Maintainer: Stategraph <support@stategraph.com>
@@ -63,6 +49,20 @@ Size: 23067350
 MD5sum: d90595e697d6dec9c4a3070d6cf6ae2e
 SHA1: c0ee33ca6eb1f4bc12071812c8d153443de299a5
 SHA256: 13a7ea7c12031aff759667cfef3eccb3fa43703b00109e60c0986f6671239b99
+Homepage: https://stategraph.com
+Description: Terraform state management and visualization CLI
+ Stategraph provides tools for managing and visualizing Terraform state,
+ including state diffing, querying, and visualization capabilities.
+
+Package: stategraph
+Version: 3.2.44
+Architecture: amd64
+Maintainer: Stategraph <support@stategraph.com>
+Filename: pool/stategraph_3.2.44_amd64.deb
+Size: 23067540
+MD5sum: ca2c782c2dfdc12e94967c349f97d9e5
+SHA1: 78315f1020b2fcc4e3484d3df9a93b4e3e12a00e
+SHA256: bac420bea99c64117fb8d468dc61497b7540cbf69c504d85961519ca33fa5917
 Homepage: https://stategraph.com
 Description: Terraform state management and visualization CLI
  Stategraph provides tools for managing and visualizing Terraform state,
